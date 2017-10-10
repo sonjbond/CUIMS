@@ -32,7 +32,7 @@ public class Test extends HttpServlet {
 	 */
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
-		System.out.println("inside the servlet");
+		//System.out.println("inside the servlet");
 		String s=request.getParameter("MyName");
 		System.out.println(s);
 		s=request.getParameter("but1");

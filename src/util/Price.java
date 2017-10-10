@@ -1,6 +1,7 @@
 package util;
 
 public class Price {
+
 	int sci_price;
 	int sta_price;
 	int tools_price;
@@ -17,6 +18,11 @@ public class Price {
 	}
 	public int getTools_price() {
 		return tools_price;
+	}
+	public void UpdatePrice( int sc, int st, int tl ) {
+		sci_price = sc;
+		sta_price = st;
+		tools_price = tl;
 	}
 
 }

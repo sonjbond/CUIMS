@@ -17,8 +17,8 @@
 	<center>
 		<form action="LogOut" method="post">
 			<br><br>
-			<strong><font size=3 color=red >Logging Out ?</font></strong>
-			<br>
+			<strong><font size=3 color=red >Logging Out?</font></strong>
+			<br> <br>
 			<br> <br> <input type="submit" value="Ok">
 			<br><br>
 		</form>

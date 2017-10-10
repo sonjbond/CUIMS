@@ -13,7 +13,7 @@
 	<h4 align="center">Zobra, Hathazari,Chittagong - 4331</h4>
 	<p align="center">This is Inventory Management System of Chittagong
 		University</p>
-	<br><br>
+	<br><br><br>
 	<p align="center">
 		<a href="StuffSignUp.jsp">Sign Up</a>
 	</p>
